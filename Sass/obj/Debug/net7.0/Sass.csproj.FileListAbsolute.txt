@@ -1,0 +1,15 @@
+/media/greenchild/Gata/Ethan/Home/Github/Sass/Sass/bin/Debug/net7.0/Sass
+/media/greenchild/Gata/Ethan/Home/Github/Sass/Sass/bin/Debug/net7.0/Sass.deps.json
+/media/greenchild/Gata/Ethan/Home/Github/Sass/Sass/bin/Debug/net7.0/Sass.runtimeconfig.json
+/media/greenchild/Gata/Ethan/Home/Github/Sass/Sass/bin/Debug/net7.0/Sass.dll
+/media/greenchild/Gata/Ethan/Home/Github/Sass/Sass/bin/Debug/net7.0/Sass.pdb
+/media/greenchild/Gata/Ethan/Home/Github/Sass/Sass/obj/Debug/net7.0/Sass.csproj.AssemblyReference.cache
+/media/greenchild/Gata/Ethan/Home/Github/Sass/Sass/obj/Debug/net7.0/Sass.GeneratedMSBuildEditorConfig.editorconfig
+/media/greenchild/Gata/Ethan/Home/Github/Sass/Sass/obj/Debug/net7.0/Sass.AssemblyInfoInputs.cache
+/media/greenchild/Gata/Ethan/Home/Github/Sass/Sass/obj/Debug/net7.0/Sass.AssemblyInfo.cs
+/media/greenchild/Gata/Ethan/Home/Github/Sass/Sass/obj/Debug/net7.0/Sass.csproj.CoreCompileInputs.cache
+/media/greenchild/Gata/Ethan/Home/Github/Sass/Sass/obj/Debug/net7.0/Sass.dll
+/media/greenchild/Gata/Ethan/Home/Github/Sass/Sass/obj/Debug/net7.0/refint/Sass.dll
+/media/greenchild/Gata/Ethan/Home/Github/Sass/Sass/obj/Debug/net7.0/Sass.pdb
+/media/greenchild/Gata/Ethan/Home/Github/Sass/Sass/obj/Debug/net7.0/Sass.genruntimeconfig.cache
+/media/greenchild/Gata/Ethan/Home/Github/Sass/Sass/obj/Debug/net7.0/ref/Sass.dll
