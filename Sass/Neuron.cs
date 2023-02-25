@@ -13,9 +13,15 @@ namespace sass
             this.weights = new Weight[slots];
         }
 
-        public void fillWeights() {
-            for (int i = 0; i < weights.Length; i++) 
+        public Neuron(byte value, Weight[] weights) {
+            this.value = value;
+            this.weights = weights;
+        }
+
+        public Neuron fillWeights() {
+            for (int i = 0; i < weights.Length; i++) {
                 this.weights[i] = new Weight();
+            } return this;
         }
 
         public static string valueFromByte(byte value) =>
@@ -42,7 +48,9 @@ namespace sass
         public class Weight {
             public float value {get; set;}
             public Weight(float value) => this.value = value;
-            public Weight() => this.value = ((float) RandomNumberGenerator.GetInt32(1, 21)) / 10;
+            public Weight() {
+                this.value = RandomNumberGenerator.GetInt32(1, 256) / 100f;
+            }
         }
     }
 }

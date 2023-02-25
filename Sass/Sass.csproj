@@ -5,11 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <NoWarn>CS8602, CS8603, CS8600, CS8618</NoWarn>
+    <NoWarn>CS8602, CS8603, CS8600, CS8618, CS8625, CS8604</NoWarn>
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
-  </ItemGroup>
 
 </Project>

@@ -13,5 +13,3 @@
 /media/greenchild/Gata/Ethan/Home/Github/Sass/Sass/obj/Debug/net6.0/Sass.pdb
 /media/greenchild/Gata/Ethan/Home/Github/Sass/Sass/obj/Debug/net6.0/Sass.genruntimeconfig.cache
 /media/greenchild/Gata/Ethan/Home/Github/Sass/Sass/obj/Debug/net6.0/ref/Sass.dll
-/media/greenchild/Gata/Ethan/Home/Github/Sass/Sass/bin/Debug/net6.0/Newtonsoft.Json.dll
-/media/greenchild/Gata/Ethan/Home/Github/Sass/Sass/obj/Debug/net6.0/Sass.csproj.CopyComplete

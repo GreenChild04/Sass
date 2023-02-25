@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8NvgR6U+O/+qBHstu+NCLhAJbuNNMqEUaQFW1ILmGYlam2RqSdN6Zsi2X2PJbehgOprN4ZO7LAFwALT6NfqqaQ==",
+  "dgSpecHash": "sltOt5YNI0fPMqIFsYC3J+4VMsaTLJp2SDe32Lgxg7FoI89Ri6D8LJs0wjZGr4Z0FBHKZcmZrm4GE4OLXQCeLQ==",
   "success": true,
   "projectFilePath": "/media/greenchild/Gata/Ethan/Home/Github/Sass/Sass/Sass.csproj",
-  "expectedPackageFiles": [
-    "/home/greenchild/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

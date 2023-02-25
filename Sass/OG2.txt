@@ -1,1 +1,1 @@
-Hello, my name is Ethan Ma!
+Hello, my name is Ethan Ma and this is the second file that I will train into the prototype Sass disk. This will work! :D
